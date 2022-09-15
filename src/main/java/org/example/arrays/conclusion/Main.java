@@ -20,6 +20,7 @@ public class Main {
 
     public static int thirdMax(int[] nums){
         return 2;
+        // some thing in master branch
     }
     //some things
 }
